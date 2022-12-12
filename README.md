@@ -29,7 +29,7 @@ Em seguida, houve um processo de tunagem visando maximizar o desempenho tendo co
 
 ## Resultado do Modelo tunado:
 
-![image](https://user-images.githubusercontent.com/69591172/206980307-46309cb2-88b0-4dcf-9f44-65e0f8b24585.png)
+![image](https://user-images.githubusercontent.com/69591172/207107080-6f89abe3-47a9-4eb4-a5fb-0a184c544bbc.png)
 
 -------------------------------------------------------
 
