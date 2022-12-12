@@ -29,3 +29,7 @@ Em seguida, houve um processo de tunagem visando maximizar o desempenho tendo co
 ## Resultado do Modelo tunado:
 
 ![image](https://user-images.githubusercontent.com/69591172/206981056-30d6843c-5aac-4098-9888-66adc11f22bd.png)
+
+-------------------------------------------------------
+
+Para visualizar melhor o notebook [clique aqui](https://nbviewer.org/github/gustavolenin/Previsao_Churn/blob/main/notebook.ipynb)
