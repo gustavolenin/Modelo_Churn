@@ -16,7 +16,7 @@ Foram testados 5 algoritmos de machine learning (Logistic Regression, Random For
 
 ## Comparações entre os Modelos utilizando a métrica ROC-AUC
 
-![image](https://user-images.githubusercontent.com/69591172/207106387-04597a4f-70b3-4eaa-b275-f6bb9e523fc7.png)
+![dataframe_roc_auc_churn](https://user-images.githubusercontent.com/69591172/207106690-c99c7725-c325-41f9-8970-07148d3c5311.png)
 
 A Regressão Logística além de apresentar o maior grau de explicabilidade dentre estes algoritmos teve também o melhor desempenho de acordo com o parâmetro ROC-AUC, dessa forma, a Regressão Logística foi o algoritmo escolhido.
 
@@ -24,11 +24,12 @@ Em seguida, houve um processo de tunagem visando maximizar o desempenho tendo co
 
 ## Resultado do Modelo não tunado:
 
-![image](https://user-images.githubusercontent.com/69591172/206980307-46309cb2-88b0-4dcf-9f44-65e0f8b24585.png)
+![image](https://user-images.githubusercontent.com/69591172/207106387-04597a4f-70b3-4eaa-b275-f6bb9e523fc7.png)
+
 
 ## Resultado do Modelo tunado:
 
-![image](https://user-images.githubusercontent.com/69591172/207106455-b3b0cc8b-5e88-488c-a041-73cd793e06a7.png)
+![image](https://user-images.githubusercontent.com/69591172/206980307-46309cb2-88b0-4dcf-9f44-65e0f8b24585.png)
 
 -------------------------------------------------------
 
