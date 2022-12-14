@@ -33,4 +33,4 @@ Em seguida, houve um processo de tunagem visando maximizar o desempenho tendo co
 
 -------------------------------------------------------
 
-Para visualizar melhor o notebook [clique aqui](https://nbviewer.org/github/gustavolenin/Previsao_Churn/blob/main/notebook.ipyn).
+Para visualizar melhor o notebook [clique aqui](https://nbviewer.org/github/gustavolenin/Previsao_Churn/blob/main/notebook.ipynb).
