@@ -37,14 +37,14 @@ Em seguida, houve um processo de tunagem visando maximizar o desempenho tendo co
 
 Pode-se notar que:
 
-* **Faixa 0** contém aproximadamente 0,32% de Churn
-* **Faixa 1** contém aproximadamente 7,28% de Churn
-* **Faixa 2** contém aproximadamente 15,22% de Churn
-* **Faixa 3** contém aproximadamente 17,65% de Churn
-* **Faixa 4** contém aproximadamente 31,19% de Churn
-* **Faixa 5** contém aproximadamente 54,33% de Churn
-* **Faixa 6** contém aproximadamente 67,80% de Churn
-* **Faixa 7** contém aproximadamente 87,88% de Churn
+* **Faixa 0** contém aproximadamente 0,32% de Churn;
+* **Faixa 1** contém aproximadamente 7,28% de Churn;
+* **Faixa 2** contém aproximadamente 15,22% de Churn;
+* **Faixa 3** contém aproximadamente 17,65% de Churn;
+* **Faixa 4** contém aproximadamente 31,19% de Churn;
+* **Faixa 5** contém aproximadamente 54,33% de Churn;
+* **Faixa 6** contém aproximadamente 67,80% de Churn;
+* **Faixa 7** contém aproximadamente 87,88% de Churn.
 
 -------------------------------------------------------
 
