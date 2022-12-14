@@ -33,15 +33,18 @@ Em seguida, houve um processo de tunagem visando maximizar o desempenho tendo co
 
 ## Percentual de Churn por Faixa de Score
 
-![churn_score](https://user-images.githubusercontent.com/69591172/207505738-d3912f30-ce57-4c8b-b56a-fbcc3fb55dd2.png)
+![churn_score](https://user-images.githubusercontent.com/69591172/207646725-0ae16c15-d1a1-43ef-80be-2d2c8608af5d.png)
 
 Pode-se notar que:
 
-* Faixa 0: Aproximadamente 0% de Churn
-* Faixa 1: Aproximadamente 1% de Churn
-* Faixa 2: Aproximadamente 2% de Churn
-* Faixa 3: Aproximadamente 3% de Churn
-* Faixa 4: Aproximadamente 4% de Churn
+* Faixa 0: Aproximadamente 0,32% de Churn
+* Faixa 1: Aproximadamente 7,28% de Churn
+* Faixa 2: Aproximadamente 15,22% de Churn
+* Faixa 3: Aproximadamente 17,65% de Churn
+* Faixa 4: Aproximadamente 31,19% de Churn
+* Faixa 5: Aproximadamente 54,33% de Churn
+* Faixa 6: Aproximadamente 67,80% de Churn
+* Faixa 7: Aproximadamente 87,88% de Churn
 
 -------------------------------------------------------
 
