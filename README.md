@@ -31,6 +31,10 @@ Em seguida, houve um processo de tunagem visando maximizar o desempenho tendo co
 
 ![image](https://user-images.githubusercontent.com/69591172/207107080-6f89abe3-47a9-4eb4-a5fb-0a184c544bbc.png)
 
+## Percentual de Churn por Faixa de Score
+
+![churn_score](https://user-images.githubusercontent.com/69591172/207505738-d3912f30-ce57-4c8b-b56a-fbcc3fb55dd2.png)
+
 -------------------------------------------------------
 
 Para visualizar melhor o notebook [clique aqui](https://nbviewer.org/github/gustavolenin/Previsao_Churn/blob/main/notebook.ipynb).
